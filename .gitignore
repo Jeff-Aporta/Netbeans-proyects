@@ -1,0 +1,15 @@
+-y
+*.mf
+*.xml
+*.log
+*.properties
+*.netbeans*
+*.class
+*.form
+*.ini
+*.ico
+*.txt
+*.lnk
+*/dist
+*/build
+**/compile
