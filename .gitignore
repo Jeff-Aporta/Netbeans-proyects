@@ -1,4 +1,5 @@
 -y
+*.vscode
 *.mf
 *.log
 *.properties
