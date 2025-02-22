@@ -1,6 +1,5 @@
 -y
 *.mf
-*.xml
 *.log
 *.properties
 *.netbeans*
@@ -10,6 +9,6 @@
 *.ico
 *.txt
 *.lnk
-*/dist
-*/build
+**/dist
+**/build
 **/compile
