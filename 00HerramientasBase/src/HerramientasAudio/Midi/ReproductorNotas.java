@@ -2197,7 +2197,7 @@ public class ReproductorNotas {
                 Reproducir(octava + "SI", 500, -1);
                 Reproducir(octava + "LA", 500, -1);
                 Reproducir(octava + "SOL", 500, -1);
-                Reproducir(octava + "LA", 1100, -1)$$
+                Reproducir(octava + "LA", 1100, -1);
             };
             BloqueDeCódigo.Simple p8 = () -> {
                 p4.Ejecutar();

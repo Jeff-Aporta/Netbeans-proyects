@@ -5,7 +5,7 @@ import static HerramientasAudio.Midi.ReproductorNotas.Constantes.*;
 public final class BibliotecaSonidos {
 
     public static void main(String[] args) {
-        Efectos.Reproducir.Zelda.PuzzleSolved();
+        Efectos.Reproducir.Zelda.Death();
     }
 
     public static final class Efectos {

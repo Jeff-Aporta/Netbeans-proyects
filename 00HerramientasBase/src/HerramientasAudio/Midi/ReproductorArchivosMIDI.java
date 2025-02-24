@@ -16,7 +16,7 @@ public final class ReproductorArchivosMIDI {
         );
         ReproductorMidi.Reproducir();
         ReproductorMidi.RepetirEnBucle_Indefinidamente();
-        ReproductorMidi.InterpretadorMidi.setTrackMute(1, true);
+        // ReproductorMidi.InterpretadorMidi.setTrackMute(1, true);
         while (ReproductorMidi.EstaReproduciendo()) {
             Thread.sleep(1000);
         }

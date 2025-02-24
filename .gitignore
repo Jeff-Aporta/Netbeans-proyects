@@ -13,3 +13,5 @@
 **/dist
 **/build
 **/compile
+/QuizzMaster/nbproject/private/
+/QuizzMasterFX/nbproject/private/
